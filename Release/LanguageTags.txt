@@ -1,0 +1,104 @@
+ADVP NP ADVP VP 
+NP VP 
+NP NP '' : NP '' 
+S NP VP 
+ADJP NP VP 
+NP PP 
+NP VP . 
+NP VP 
+NP VP 
+NP VP 
+NP VP 
+NP VP 
+NP CC NP 
+NP , NP 
+NP VP 
+ADJP NN '' CC NP 
+NP VP 
+NP PP 
+NP VP 
+NP VP 
+S NP VP 
+NP VP 
+NP VP 
+NP : NP 
+NP VP 
+NP VP 
+JJ NN NNS NNP NN NN 
+NP PP 
+NP VP 
+NP , VP . 
+NP VP 
+NP VP 
+VBG NP 
+NP : S 
+NP VP 
+NP VP 
+NP , NP 
+JJ NN NNS NN NNS NN NN 
+NNP NNS NN NN 
+NP PP 
+NP VP 
+NP VP 
+NP : NP 
+NP PP 
+NP VP 
+NP VP 
+S : . 
+NP S 
+NP VP 
+NP VP 
+S TO VB 
+
+ADVP NP ADVP VP 
+NP VP 
+NP NP '' : NP '' 
+S NP VP 
+ADJP NP VP 
+NP PP 
+NP VP . 
+NP VP 
+NP VP 
+NP VP 
+NP VP 
+NP VP 
+NP CC NP 
+NP , NP 
+NP VP 
+ADJP NN '' CC NP 
+NP VP 
+NP PP 
+NP VP 
+NP VP 
+S NP VP 
+NP VP 
+NP VP 
+NP : NP 
+NP VP 
+NP VP 
+WHNP SQ . 
+NP VP 
+NP PP 
+NP PP 
+NP VP 
+JJ NN NNS NNP NN NN 
+NP PP 
+NP VP 
+NP , VP . 
+NP VP 
+NP VP 
+VBG NP 
+NP : S 
+NP VP 
+NP VP 
+NP , NP 
+JJ NN NNS NN NNS NN NN 
+NNP NNS NN NN 
+NP PP 
+NP VP 
+NP VP 
+NP : NP 
+NP PP 
+NP VP 
+NP VP 
+

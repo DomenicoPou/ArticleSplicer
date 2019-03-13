@@ -1,0 +1,39 @@
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ArticleSplicer.exe.config
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ArticleSplicer.exe
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ArticleSplicer.pdb
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ArticleSplicer.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ArticleSplicer.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ArticleSplicer.exe
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ArticleSplicer.pdb
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Facebook.dll
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Facebook.xml
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ArticleSplicer.csproj.CopyComplete
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ArticleSplicer.csproj.ResolveComReference.cache
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\OpenNLP.dll
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SharpEntropy.dll
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\bin\Debug\ArticleSplicer.exe.config
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\bin\Debug\ArticleSplicer.exe
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\bin\Debug\ArticleSplicer.pdb
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\bin\Debug\Facebook.dll
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\bin\Debug\OpenNLP.dll
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\bin\Debug\SharpEntropy.dll
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\bin\Debug\Facebook.xml
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\obj\Debug\ArticleSplicer.csprojAssemblyReference.cache
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\obj\Debug\ArticleSplicer.csproj.ResolveComReference.cache
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\obj\Debug\ArticleSplicer.csproj.CoreCompileInputs.cache
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\obj\Debug\ArticleSplicer.csproj.CopyComplete
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\obj\Debug\ArticleSplicer.exe
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ConsoleApp1\obj\Debug\ArticleSplicer.pdb
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\bin\Debug\ArticleSplicer.exe.config
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\bin\Debug\ArticleSplicer.exe
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\bin\Debug\ArticleSplicer.pdb
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\bin\Debug\Facebook.dll
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\bin\Debug\OpenNLP.dll
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\bin\Debug\SharpEntropy.dll
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\bin\Debug\Facebook.xml
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\obj\Debug\ArticleSplicer.csprojAssemblyReference.cache
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\obj\Debug\ArticleSplicer.csproj.ResolveComReference.cache
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\obj\Debug\ArticleSplicer.csproj.CoreCompileInputs.cache
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\obj\Debug\ArticleSplicer.csproj.CopyComplete
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\obj\Debug\ArticleSplicer.exe
+T:\STAFF FOLDERS\Dom\Doms Programs\Other\ArticleSplicer\ArticleSplicer\obj\Debug\ArticleSplicer.pdb

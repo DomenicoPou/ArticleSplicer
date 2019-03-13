@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ArtcleSplicer.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ArtcleSplicer.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ArtcleSplicer.exe.config
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ArtcleSplicer.exe
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ArtcleSplicer.pdb
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ArtcleSplicer.exe
+C:\Users\Owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ArtcleSplicer.pdb
